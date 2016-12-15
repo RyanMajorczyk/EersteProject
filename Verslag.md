@@ -9,8 +9,8 @@
 	- SERDAR BOZKURT 11602151
 	- RUBEN THEUNIS 11600475
 	
-\newpage
-\pagebreak
+<div style="page-break-after: always;"></div>
+
 
 ##**Inhoudstabel:**
 
